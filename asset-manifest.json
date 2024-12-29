@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Coding-Ninjas-React-Router-Main/static/css/main.b72d4bc5.css",
-    "main.js": "/Coding-Ninjas-React-Router-Main/static/js/main.131508de.js",
-    "index.html": "/Coding-Ninjas-React-Router-Main/index.html",
-    "main.b72d4bc5.css.map": "/Coding-Ninjas-React-Router-Main/static/css/main.b72d4bc5.css.map",
-    "main.131508de.js.map": "/Coding-Ninjas-React-Router-Main/static/js/main.131508de.js.map"
+    "main.css": "/E-Learning-App/static/css/main.b72d4bc5.css",
+    "main.js": "/E-Learning-App/static/js/main.e3dd8862.js",
+    "index.html": "/E-Learning-App/index.html",
+    "main.b72d4bc5.css.map": "/E-Learning-App/static/css/main.b72d4bc5.css.map",
+    "main.e3dd8862.js.map": "/E-Learning-App/static/js/main.e3dd8862.js.map"
   },
   "entrypoints": [
     "static/css/main.b72d4bc5.css",
-    "static/js/main.131508de.js"
+    "static/js/main.e3dd8862.js"
   ]
 }
