@@ -10,7 +10,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 function App() {
   const router = createBrowserRouter([
     {
-      path: "/Coding-Ninjas-React-Router-Main",
+      path: "/E-Learning-App",
       element: <Nav />,
       errorElement: <Page404 />,
       children: [

@@ -1,8 +1,8 @@
 # Coding Ninjas React Router Main
 
-A Coding Ninjas Courses web app built using React implementing the basic React Routing concepts.
+An E-Learning-App app built using React implementing the basic React Routing concepts.
 
-## [Live Demo](https://priyanka-agrawal2022.github.io/)
+## [Live Demo](https://priyanka-agrawal2022.github.io/E-Learning-App)
 
 ## Features
 
