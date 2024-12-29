@@ -10,24 +10,31 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 function App() {
   const router = createBrowserRouter([
     {
-      path: "/",
+      path: "/Coding-Ninjas-React-Router-Main",
       element: <Nav />,
       errorElement: <Page404 />,
       children: [
         { index: true, element: <Hero /> },
-        { path: "courses", children: [
-          {index: true, element: <Courses />},
-          {path: ":courseId", element: <Details />},
-          {path: ":courseId/learn", element: <Learn />, children: [
-            {path: "chapter/:chapterId", element: <Chapter />}
-          ]}
-        ] },
+        {
+          path: "courses",
+          children: [
+            { index: true, element: <Courses /> },
+            { path: ":courseId", element: <Details /> },
+          ],
+        },
+        {
+          path: "learn/:courseId",
+          element: <Learn />,
+          children: [{ path: "chapter/:chapterId", element: <Chapter /> }],
+        },
       ],
     },
   ]);
-  return <>
-    <RouterProvider router={router} />
-  </>;
+  return (
+    <>
+      <RouterProvider router={router} />
+    </>
+  );
 }
 
 export default App;

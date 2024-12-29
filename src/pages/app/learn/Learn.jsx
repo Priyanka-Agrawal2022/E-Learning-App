@@ -11,7 +11,7 @@ function Learn() {
     <div className={style.courses_container}>
       <div className={style.top_head}>
         {/* Task4: Create Link to go back to the Courses page */}
-        <Link to="/courses">
+        <Link to="/Coding-Ninjas-React-Router-Main/courses">
           <h2 className={style.back}>{"<<"}</h2>
         </Link>
 
