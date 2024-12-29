@@ -2,7 +2,7 @@
 
 A Coding Ninjas Courses web app built using React implementing the basic React Routing concepts.
 
-## [Live Demo](https://github.com/facebook/create-react-app)
+## [Live Demo](https://priyanka-agrawal2022.github.io/)
 
 ## Features
 
