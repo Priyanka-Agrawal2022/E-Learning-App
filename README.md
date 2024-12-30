@@ -1,4 +1,4 @@
-# Coding Ninjas React Router Main
+# E-Learning App
 
 An E-Learning-App app built using React implementing the basic React Routing concepts.
 
