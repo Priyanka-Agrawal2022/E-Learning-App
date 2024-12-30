@@ -68,3 +68,9 @@
   font-size: 1.2rem;
   padding-top: 0.4rem;
 }
+
+@media screen and (max-width: 768px) {
+  .chapter_box {
+    flex-direction: column;
+  }
+}

@@ -22,4 +22,4 @@ An E-Learning-App app built using React implementing the basic React Routing con
 - Clone the project onto your local machine.
 - Run 'npm install' to install required dependencies.
 - Run 'npm start' in terminal to start server.
-- Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Open [http://localhost:3000/E-Learning-App](http://localhost:3000/E-Learning-App) to view it in your browser.
